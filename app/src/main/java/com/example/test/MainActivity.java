@@ -20,6 +20,8 @@ import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
 
+    int score;
+
     private AppBarConfiguration appBarConfiguration;
 
     @Override
